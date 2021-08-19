@@ -1,7 +1,7 @@
 # GUI_instagram_profilepic_downloader_unsing_python
 GUI instagram profile pic downloader unsing python
 You need to install some libraries
-1 :- pip install libraries
+1 :- pip3 install instaloader
 2 :- pip install tk
 3 :- pip install Pillow
 
